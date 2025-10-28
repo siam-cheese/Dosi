@@ -1,0 +1,1 @@
+$execute positioned $(chunkX) 400 $(chunkZ) unless entity @e[type=armor_stand,distance=..1] run summon armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,Tags:[$(tempTeam),"capital"]}

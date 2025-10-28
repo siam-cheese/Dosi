@@ -1,0 +1,8 @@
+modify these files
+
+announce nations
+chack nations
+one sec loop
+tick
+
+#c3DeathTimer
