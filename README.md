@@ -26,7 +26,8 @@ The game is a analogy for escapism
 
 <sup>Note, Scars are trauma and experiences, how you deal with them is NOT in relation to how you overcome them, rather how you cope, this is hardly done in a healthy manner. If dealing with the scars seems unhealthy, thats becuase it is. We prioritize temporary solutions becuase we need it in the moment.
 
-TW for obvious reasons
+TW for obvious reasons, Scars are designed to represent either my, a team members, or someone im in contact with experiences. None are designed without communication of someone with experience as to not  misrepresent sensitive topics. 
+
 <details>
 <summary> SA - Grab </summary> Black floating particular blob with a central eye that follows the players and tugs the players vision to look at it. Representing the player being forced to do something they dont want to. Grab will also slowly approach and follow the player regardless of if they are looking at it, they will approach and there is nothing the player can do to stop it. It will kill the player if it touches, the death message will be allong the lines of "You let this happen". If the player dies from looking at it for too long, the message will be "You're ruined."
 </details> <details>
