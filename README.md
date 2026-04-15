@@ -85,3 +85,7 @@ Higher level charms will be in special chests, often requiring a bit of explorin
 <b>LOW CHARMS:</b>
 
 * SPRiNT (will prob need to rebrand with the whole pressure shit) (Single use but stacks to 16): Provides speed for 6 seconds and removes knockback for its duration, used to get out of situations of overwhelming.
+
+# Misc
+
+Idealized Layout, at any time during a normal run a command will be available to the player to save their layout. Later i plan to implement a RUN FROM IT ALL game mode that is incredibly hectic in which the player will spawn with their idealized layout.
