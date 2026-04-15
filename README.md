@@ -29,9 +29,12 @@ The game is a analogy for escapism
 TW for obvious reasons, Scars are designed to represent either my, a team members, or someone im in contact with experiences. None are designed without communication of someone with experience as to not  misrepresent sensitive topics. 
 
 <details>
-<summary> SA - Grab </summary> Black floating particular blob with a central eye that follows the players and tugs the players vision to look at it. Representing the player being forced to do something they dont want to. Grab will also slowly approach and follow the player regardless of if they are looking at it, they will approach and there is nothing the player can do to stop it. It will kill the player if it touches, the death message will be allong the lines of "You let this happen". If the player dies from looking at it for too long, the message will be "You're ruined."
+<summary> SA - Grab </summary> Black floating particulate blob with a central eye that follows the players and tugs the players vision to look at it. Representing the player being forced to do something they dont want to. Grab will also slowly approach and follow the player regardless of if they are looking at it, they will approach and there is nothing the player can do to stop it. It will kill the player if it touches, the death message will be allong the lines of "You let this happen". Despawns naturally
 </details> <details>
-<summary> Guilt - The Abandonded </summary> The Abandonded represent those the player has wronged in their past. they spawn from the walls and chase the player, the player will need to look at them and left click them to push the memory away once more. Death message wil be something along the lines of "You left me", "How could you do this to me".
+<summary> SA - Pull </summary> Red Floating particulate blob with a central eye. This spawns and slowly begins approaching the player, dealing damage to the player for as long as it is there, but disapearing when the player touches it, though not after dealing a good chunk of damage. This represents a more giving up response to SA, where avoiding it causes it to linger and hurt or it can be gotten over with quickly by giving in. Death message is "You're ruined.". Only despawns on touch.
+</details>
+<details>
+<summary> Guilt - The Abandonded </summary> The Abandonded represent those the player has wronged in their past. they spawn from the walls and chase the player, the player will need to look at them and left click them to push the memory away once more. Death message wil be something along the lines of "You left me", "How could you do this to me". Despawns naturally
 </details>
 
 ## Charm items
